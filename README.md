@@ -1,6 +1,6 @@
 # Advent of Code &middot; Solutions 🎄
-Welcome to my Advent of Code solutions repository!  
-Here, I’ll document my journey solving the yearly Advent of Code challenges.
+Welcome to my *Advent of Code* solutions repository!  
+Here, I’ll document my journey solving the yearly *Advent of Code* challenges.
 
 
 ## What is Advent of Code?
