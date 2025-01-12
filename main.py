@@ -1,6 +1,6 @@
 """
 Module: main
-Entry point for the 'Advent of Code - Automation tool' package.
+Manages the solution automation via the 'Elves' package.
 """
 from elves.application import cli_app
 
